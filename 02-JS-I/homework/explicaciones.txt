@@ -1,0 +1,9 @@
+variable:
+es un dato que puedes cambiarlo de forma cuantas veces quieras.
+
+Strings:
+cuando guardas en esa variable lo que hablas.
+
+Funciones:
+es cuando llamas a la criada y le dices que traiga un cafe, ella tiene grabada la funcion de hacer cafe, para activarla tienes que llamarla y darle la orden.
+

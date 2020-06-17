@@ -1,0 +1,9 @@
+for:es un ciclo en el cual debes cumplir algo, por ejemplo cuando les das vueltas a la cancha de futbol corriendo, si al dar una vuelta te cansas, paras, de lo contrario sigues corriendo hasta que te canses.
+
+&&: cuando te hacen dos preguntas para poder salir a jugar; ya comiste y ya arreglaste tu cuarto?
+
+||: cuando te dan permiso para salir a jugar con la condicion de que ya hayas arreglado tu cuarto O ya hayas comido.
+
+!:cuando le preguntes a tu mamá o papá si NO ha hecho la comida. 
+Lo contrario seria preguntar si ya la hizo.
+
